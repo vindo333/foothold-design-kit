@@ -16,47 +16,58 @@
    stakes instead. Compact fallback where needed: "costly" or
    "high-stakes". No em dashes in copy. Full rules:
    docs/skills/copywriting.md.
+5. **"What it is" refreshed (2026-07-02).** Opens with "a new way of
+   thinking"; persona widened from a strict decision-maker list to
+   "entrepreneurs, operators, and creators... whose judgement is worth
+   real money." See DECISION-088.
 
 ---
 
 ## The line
 
-**Foothold is where the big calls get made.**
-
-Working alternates (same belief, different registers):
+**Foothold is how you:**
 - Make decisions you can trust.
 - Think smarter today.
-- Because some questions deserve more than a generic AI chat. *(keyline
-  that closes pages and assets)*
+- See around corners.
+- Answers costly questions properly.
+
+Because some questions deserve more than a generic AI chat.
 
 ## What it is
 
-**Short (EN):** Foothold is a strategic thinking tool for decision-makers
-whose calls move real money: founders, owners, executives, senior
-operators. You shape the answer. AI just holds the guardrails. Because some
-questions deserve more than a generic AI chat.
+**Short (EN):** Foothold is a new way of thinking. A strategy tool for
+entrepreneurs, operators, and creators whose judgement is worth real
+money. You shape the answer. The AI just holds the guardrails. Because
+some questions deserve more than a generic AI chat.
 
-**Long (EN):** Foothold is a strategic thinking tool for decision-makers
-whose calls move real money: founders, owners, executives, and senior
-operators. You shape the answer. AI just holds the guardrails, surfacing
-blind spots and openings. Finding an answer you can stand on takes 30
-minutes, not months. You build a decision record that compounds, alone or
-with the people who share the call. Because some questions deserve more
-than a generic AI chat.
+**Long (EN):** Foothold is a new way of thinking. A strategy tool for
+entrepreneurs, operators, and creators whose judgement is worth real
+money. You shape the answer. The AI just holds the guardrails: it flags
+blind spots and openings you'd miss on your own. You get there faster, to
+an answer that holds, not just one that sounds good. And you build a
+decision-making record that compounds. Because some questions deserve
+more than a generic AI chat.
 
-**Kurz (DE):** Foothold ist eine Strategie-Software für Entscheider, deren
-Entscheidungen echtes Geld bewegen: Unternehmer, Inhaber, Führungskräfte,
-Macher. Du formst die Antwort, die KI hält nur die Leitplanken. Weil manche
-Fragen mehr verdienen als einen generischen KI-Chat.
+**Kurz (DE):** Foothold ist eine neue Art zu denken. Strategie-Software
+für Unternehmer, Macher und Kreative, deren Entscheidungen schwer wiegen.
+Du formst die Antwort. Die KI hält nur die Leitplanken. Weil manche Fragen
+mehr verdienen als einen generischen KI-Chat.
 
-**Lang (DE):** Foothold ist eine Strategie-Software für Entscheider, deren
-Entscheidungen echtes Geld bewegen: Unternehmer, Inhaber, Führungskräfte
-und erfahrene Macher. Du formst die Antwort. Die KI hält dabei nur die
-Leitplanken und zeigt dir Blind Spots und Potenziale auf. So kommst du in
-30 Minuten zu einer Antwort, die hält, nicht nur einer, die gut klingt. Du
-baust einen Entscheidungsverlauf auf, der compounded, allein oder mit den
-Menschen, die die Entscheidung mittragen. Weil manche Fragen mehr verdienen
-als einen generischen KI-Chat.
+**Lang (DE):** Foothold ist eine neue Art zu denken. Strategie-Software
+für Unternehmer, Macher und Kreative, deren Entscheidungen schwer wiegen.
+Du formst die Antwort. Die KI hält nur die Leitplanken: Sie zeigt dir
+blinde Flecken und Potenziale, die du allein übersehen würdest. So kommst
+du schneller zu einer Antwort, die hält, nicht nur zu einer, die gut
+klingt. Und du baust dir einen Entscheidungsverlauf auf, der sich
+verzinst. Weil manche Fragen mehr verdienen als einen generischen
+KI-Chat.
+
+*Note (2026-07-02): this widens the "What it is" framing from a strict
+decision-maker persona list to "entrepreneurs, operators, and creators of
+all sorts" — a deliberate broadening at the identity line while the 80/20
+organizational-vs-personal stakes framing below (Who it's for) is
+unchanged. Watch for drift if the two sections start to read as two
+different products.*
 
 It's a supportive structured thinking environment for answering important
 questions. Not a note-taking app, not an AI chatbot, not a decision matrix.
